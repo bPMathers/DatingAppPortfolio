@@ -31,5 +31,6 @@ msbuild.wrn
 # Other
 *.db
 appsettings.json
+appsettings.development.json
 .history
 /node_modules
